@@ -1,0 +1,13 @@
+#recent-posts > .recent-post-item >.recent-post-info > .article-title {
+  color: var(--text-highlight-color);
+  font-weight:bold;
+  font-size: 2em;
+}
+
+#recent-posts > .recent-post-item >.recent-post-info {
+  border:solid 2px #367992
+}
+
+#aside-content .card-widget {
+  border:solid 2px #367992
+}
