@@ -4,10 +4,14 @@
   font-size: 2em;
 }
 
-#recent-posts > .recent-post-item >.recent-post-info {
-  border:solid 2px #367992
+#recent-posts > .recent-post-item {
+  border:solid 2px #49b1f5
 }
 
 #aside-content .card-widget {
-  border:solid 2px #367992
+  border:solid 2px #49b1f5
+}
+
+#post {
+  border:solid 2px #49b1f5
 }
