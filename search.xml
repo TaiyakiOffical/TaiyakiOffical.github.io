@@ -4,42 +4,25 @@
   
     
     <entry>
-      <title>my-first-article</title>
-      <link href="/2024/05/03/my-first-article/"/>
-      <url>/2024/05/03/my-first-article/</url>
+      <title>Hello,world!</title>
+      <link href="/2024/05/03/Hello,world/"/>
+      <url>/2024/05/03/Hello,world/</url>
       
-        <content type="html"><![CDATA[<p>啊啊啊</p><p>是</p>]]></content>
+        <content type="html"><![CDATA[<blockquote><p>感谢以下几篇博客的帮助，让我自己从零开始搭建了一个自己的博客网站：</p><p><a href="https://blog.csdn.net/weixin_45377770/article/details/105228938%EF%BC%88hexo%E6%90%AD%E5%BB%BA%E6%B5%81%E7%A8%8B%EF%BC%89">https://blog.csdn.net/weixin_45377770/article/details/105228938（hexo搭建流程）</a></p><p><a href="https://blog.csdn.net/JesseXW/article/details/135649752%EF%BC%88%E4%BB%A5%E4%B8%8B%E4%B8%89%E7%AF%87%E6%96%87%E7%AB%A0%E4%B8%BAbutterfly%E6%95%99%E5%AD%A6%EF%BC%89">https://blog.csdn.net/JesseXW/article/details/135649752（以下三篇文章为butterfly教学）</a></p><p><a href="https://blog.csdn.net/weixin_43350051/article/details/104923503">https://blog.csdn.net/weixin_43350051/article/details/104923503</a></p><p><a href="https://blog.csdn.net/mjh1667002013/article/details/129290903">https://blog.csdn.net/mjh1667002013/article/details/129290903</a></p></blockquote><p>如果把程序员比作是一个高效运转，负责后端运作的服务器，那么我相信博客便是程序员对外开放的接口。说到底，闷头搞研究属实是一件相当寂寞的事情，但如果怀着会被人观摩并学习的态度去搞研究，那么性质也就不一样了。揣着这样的想法，我决定开设一个自己的博客。</p><p>有着上面四篇博客的帮助以及作为计算机专业学生常年折腾的基础，我只花了几个小时便把整个博客搭建起来了。接下来便是美化了，这里我用了butterfly框架，照着网上已有的一些简单的配置做了一些修改。总的来说，在一切的最开始，我喜欢把东西最简化，削弱掉冗余或者可有可无的功能，发挥“less is more”的极简主义精神，本质上博客也只是一个记录个人文字的平台罢了，所以我只留下了一些核心功能，其他的通通都给删除，等以后需要的时候再做添加。当然，有一些功能只是我能力不够所以没有添加。</p><p>在未来，我对此博客的发展有以下功能设计上的计划，它们的序号代表着它们优先级：</p><ol><li>开发留言板的功能。让读者在读到博客后可以与我沟通，闭门造车是不行的。</li><li>开发文章加密的功能。所有的文字写出来都有两面，一面留给自己一面留给读者。有一些私人性质的文字我想只留给自己。</li><li>转移服务器。github服务器开设在国外，没有梯子会经常性出故障。</li><li>转移域名。</li><li>在搜索引擎上注册推广。</li><li>希望能够在线实现文章上传功能。我希望开发者环境用的越少越好。</li></ol>]]></content>
       
       
       <categories>
           
-          <category> 代码 </category>
-          
-          <category> 表格 </category>
+          <category> 技术 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 技术 </tag>
-            
-            <tag> 爱好 </tag>
+            <tag> 博客 </tag>
             
         </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2024/05/03/hello-world/"/>
-      <url>/2024/05/03/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-      
-      
       
     </entry>
     
